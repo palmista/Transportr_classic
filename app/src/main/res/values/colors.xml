@@ -4,8 +4,8 @@
     <color name="walking">#ffea00</color>
 
     <!-- material theme colors -->
-    <color name="primary">#f44336</color>
-    <color name="primary_dark">#b71c1c</color>
+    <color name="primary">@color/md_green_600</color><!--#f44336</color>-->
+    <color name="primary_dark">@color/md_green_900</color><!--#b71c1c</color>-->
     <color name="accent">#e53935</color>
 
     <!-- To enable accent color in settings for devices with API <21 -->

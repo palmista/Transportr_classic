@@ -29,7 +29,7 @@ internal data class ContributorGroup(@StringRes val name: Int, val contributors:
 internal val CONTRIBUTORS = listOf(
     ContributorGroup(
         R.string.maintainer, listOf(
-            Contributor("Torsten Grote")
+            Contributor("Chris Weber")
         )
     ),
     ContributorGroup(
@@ -51,8 +51,9 @@ internal val CONTRIBUTORS = listOf(
             Contributor("Robert Schütz"),
             Contributor("Sebastian Grote"),
             Contributor("Simó Albert i Beltran"),
+            Contributor("Torsten Grote"),
             Contributor("Wolfgang Heller")
-        )
+            )
     )
 )
 
